@@ -1,4 +1,5 @@
 # LinkedIn Recommendations — Kenneth Miralles Mora
+# This file have the name, job position, work together or interaction date, the type of relation and the recomendation text
 
 ---
 
